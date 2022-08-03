@@ -1,0 +1,2624 @@
+{
+    "shardnet": [
+        {
+            "position": "1",
+            "status": "Активный",
+            "fee": "Н/Д",
+            "contributors": "Н/Д",
+            "total": "530,000 NEAR"
+        },
+        {
+            "position": "2",
+            "status": "Активный",
+            "fee": "Н/Д",
+            "contributors": "Н/Д",
+            "total": "530,000 NEAR"
+        },
+        {
+            "position": "3",
+            "status": "Активный",
+            "fee": "Н/Д",
+            "contributors": "Н/Д",
+            "total": "530,000 NEAR"
+        },
+        {
+            "position": "4",
+            "status": "Активный",
+            "fee": "3%",
+            "contributors": "2",
+            "total": "529,980 NEAR+0.0342 NEAR"
+        },
+        {
+            "position": "6",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "3",
+            "total": "300,002 NEAR+0.0305 NEAR"
+        },
+        {
+            "position": "7",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "3",
+            "total": "282,930 NEAR+0.0332 NEAR"
+        },
+        {
+            "position": "8",
+            "status": "Активный",
+            "fee": "1%",
+            "contributors": "35",
+            "total": "164,030 NEAR+0.004 NEAR"
+        },
+        {
+            "position": "9",
+            "status": "Активный",
+            "fee": "1%",
+            "contributors": "12",
+            "total": "20,980 NEAR+0.0509 NEAR"
+        },
+        {
+            "position": "10",
+            "status": "Активный",
+            "fee": "2%",
+            "contributors": "3",
+            "total": "17,062 NEAR+0.029 NEAR"
+        },
+        {
+            "position": "11",
+            "status": "Активный",
+            "fee": "2%",
+            "contributors": "4",
+            "total": "10,201 NEAR+0.0535 NEAR"
+        },
+        {
+            "position": "13",
+            "status": "Активный",
+            "fee": "69%",
+            "contributors": "5",
+            "total": "9,454 NEAR+0.0328 NEAR"
+        },
+        {
+            "position": "14",
+            "status": "Активный",
+            "fee": "1%",
+            "contributors": "7",
+            "total": "8,913 NEAR+0.0317 NEAR"
+        },
+        {
+            "position": "15",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "8,054 NEAR+0.0028 NEAR"
+        },
+        {
+            "position": "21",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "5,790 NEAR+0.0027 NEAR"
+        },
+        {
+            "position": "22",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "3",
+            "total": "5,005 NEAR+0.0041 NEAR"
+        },
+        {
+            "position": "23",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "0",
+            "total": "5,000 NEAR"
+        },
+        {
+            "position": "24",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "6",
+            "total": "4,702 NEAR+0.0308 NEAR"
+        },
+        {
+            "position": "26",
+            "status": "Активный",
+            "fee": "2%",
+            "contributors": "3",
+            "total": "4,468 NEAR+0.0321 NEAR"
+        },
+        {
+            "position": "27",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "5",
+            "total": "4,331 NEAR+0.0296 NEAR"
+        },
+        {
+            "position": "28",
+            "status": "Активный",
+            "fee": "1%",
+            "contributors": "4",
+            "total": "4,232 NEAR-3,900.0177 NEAR"
+        },
+        {
+            "position": "30",
+            "status": "Активный",
+            "fee": "1%",
+            "contributors": "3",
+            "total": "4,000 NEAR+0.0535 NEAR"
+        },
+        {
+            "position": "32",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "4",
+            "total": "3,942 NEAR+20 NEAR"
+        },
+        {
+            "position": "34",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "3",
+            "total": "3,815 NEAR+0.0311 NEAR"
+        },
+        {
+            "position": "39",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "4",
+            "total": "3,432 NEAR+0.032 NEAR"
+        },
+        {
+            "position": "40",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "5",
+            "total": "3,332 NEAR"
+        },
+        {
+            "position": "41",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "3",
+            "total": "3,324 NEAR+0.029 NEAR"
+        },
+        {
+            "position": "42",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "13",
+            "total": "3,311 NEAR+0.0548 NEAR"
+        },
+        {
+            "position": "43",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "3,130 NEAR+0.0311 NEAR"
+        },
+        {
+            "position": "45",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "5",
+            "total": "2,992 NEAR+0.0264 NEAR"
+        },
+        {
+            "position": "47",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "3",
+            "total": "2,900 NEAR+0.0214 NEAR"
+        },
+        {
+            "position": "48",
+            "status": "Активный",
+            "fee": "1%",
+            "contributors": "4",
+            "total": "2,782 NEAR+0.0027 NEAR"
+        },
+        {
+            "position": "50",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "3",
+            "total": "2,730 NEAR+0.0039 NEAR"
+        },
+        {
+            "position": "52",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "3",
+            "total": "2,548 NEAR+0.0383 NEAR"
+        },
+        {
+            "position": "53",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "2,530 NEAR+0.0332 NEAR"
+        },
+        {
+            "position": "56",
+            "status": "Активный",
+            "fee": "100%",
+            "contributors": "5",
+            "total": "2,482 NEAR+0.0041 NEAR"
+        },
+        {
+            "position": "57",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "3",
+            "total": "2,480 NEAR+0.0015 NEAR"
+        },
+        {
+            "position": "58",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "3",
+            "total": "2,480 NEAR+0.0058 NEAR"
+        },
+        {
+            "position": "63",
+            "status": "Активный",
+            "fee": "1%",
+            "contributors": "13",
+            "total": "2,359 NEAR+0.0323 NEAR"
+        },
+        {
+            "position": "65",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "4",
+            "total": "2,309 NEAR+0.0261 NEAR"
+        },
+        {
+            "position": "66",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "4",
+            "total": "2,282 NEAR+0.0131 NEAR"
+        },
+        {
+            "position": "67",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "2,230 NEAR+0.0259 NEAR"
+        },
+        {
+            "position": "71",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "5",
+            "total": "2,133 NEAR+0.0292 NEAR"
+        },
+        {
+            "position": "72",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "2,120 NEAR+1,000 NEAR"
+        },
+        {
+            "position": "73",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "3",
+            "total": "2,022 NEAR+2,250 NEAR"
+        },
+        {
+            "position": "75",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "3",
+            "total": "2,012 NEAR"
+        },
+        {
+            "position": "76",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "3",
+            "total": "2,012 NEAR"
+        },
+        {
+            "position": "78",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "2,000 NEAR+0.0296 NEAR"
+        },
+        {
+            "position": "79",
+            "status": "Активный",
+            "fee": "1%",
+            "contributors": "3",
+            "total": "2,000 NEAR+0.0039 NEAR"
+        },
+        {
+            "position": "80",
+            "status": "Активный",
+            "fee": "1%",
+            "contributors": "3",
+            "total": "2,000 NEAR+0.0038 NEAR"
+        },
+        {
+            "position": "81",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "1,999 NEAR+0.0354 NEAR"
+        },
+        {
+            "position": "83",
+            "status": "Активный",
+            "fee": "99%",
+            "contributors": "2",
+            "total": "1,997 NEAR+0.0039 NEAR"
+        },
+        {
+            "position": "84",
+            "status": "Активный",
+            "fee": "17%",
+            "contributors": "2",
+            "total": "1,995 NEAR+0.0036 NEAR"
+        },
+        {
+            "position": "85",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "4",
+            "total": "1,992 NEAR+0.0026 NEAR"
+        },
+        {
+            "position": "89",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "3",
+            "total": "1,987 NEAR+0.0309 NEAR"
+        },
+        {
+            "position": "92",
+            "status": "Активный",
+            "fee": "100%",
+            "contributors": "2",
+            "total": "1,982 NEAR+0.007 NEAR"
+        },
+        {
+            "position": "93",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "3",
+            "total": "1,982 NEAR+0.0332 NEAR"
+        },
+        {
+            "position": "94",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "3",
+            "total": "1,981 NEAR+0.0324 NEAR"
+        },
+        {
+            "position": "96",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "3",
+            "total": "1,977 NEAR+0.0311 NEAR"
+        },
+        {
+            "position": "97",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "3",
+            "total": "1,972 NEAR+0.0311 NEAR"
+        },
+        {
+            "position": "99",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "1,962 NEAR+68 NEAR"
+        },
+        {
+            "position": "101",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "3",
+            "total": "1,952 NEAR+0.0025 NEAR"
+        },
+        {
+            "position": "102",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "3",
+            "total": "1,947 NEAR+0.0311 NEAR"
+        },
+        {
+            "position": "103",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "3",
+            "total": "1,943 NEAR+0.0022 NEAR"
+        },
+        {
+            "position": "104",
+            "status": "Активный",
+            "fee": "8%",
+            "contributors": "3",
+            "total": "1,942 NEAR+0.0303 NEAR"
+        },
+        {
+            "position": "106",
+            "status": "Активный",
+            "fee": "9%",
+            "contributors": "3",
+            "total": "1,933 NEAR+0.0018 NEAR"
+        },
+        {
+            "position": "109",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "3",
+            "total": "1,932 NEAR"
+        },
+        {
+            "position": "110",
+            "status": "Активный",
+            "fee": "7%",
+            "contributors": "2",
+            "total": "1,931 NEAR+0.0306 NEAR"
+        },
+        {
+            "position": "112",
+            "status": "Активный",
+            "fee": "4%",
+            "contributors": "2",
+            "total": "1,931 NEAR+0.036 NEAR"
+        },
+        {
+            "position": "114",
+            "status": "Активный",
+            "fee": "20%",
+            "contributors": "2",
+            "total": "1,930 NEAR+0.0039 NEAR"
+        },
+        {
+            "position": "115",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "1,930 NEAR+0.0049 NEAR"
+        },
+        {
+            "position": "117",
+            "status": "Активный",
+            "fee": "1%",
+            "contributors": "3",
+            "total": "1,885 NEAR"
+        },
+        {
+            "position": "119",
+            "status": "Активный",
+            "fee": "6%",
+            "contributors": "2",
+            "total": "1,856 NEAR+0.0317 NEAR"
+        },
+        {
+            "position": "122",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "4",
+            "total": "1,830 NEAR+0.03 NEAR"
+        },
+        {
+            "position": "123",
+            "status": "Активный",
+            "fee": "1%",
+            "contributors": "2",
+            "total": "1,830 NEAR+0.0042 NEAR"
+        },
+        {
+            "position": "126",
+            "status": "Активный",
+            "fee": "Н/Д",
+            "contributors": "Н/Д",
+            "total": "1,800 NEAR"
+        },
+        {
+            "position": "127",
+            "status": "Активный",
+            "fee": "Н/Д",
+            "contributors": "Н/Д",
+            "total": "1,800 NEAR"
+        },
+        {
+            "position": "128",
+            "status": "Активный",
+            "fee": "Н/Д",
+            "contributors": "Н/Д",
+            "total": "1,800 NEAR"
+        },
+        {
+            "position": "131",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "3",
+            "total": "1,760 NEAR+0.0042 NEAR"
+        },
+        {
+            "position": "135",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "1,608 NEAR"
+        },
+        {
+            "position": "137",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "1,563 NEAR"
+        },
+        {
+            "position": "139",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "3",
+            "total": "1,535 NEAR+0.0319 NEAR"
+        },
+        {
+            "position": "140",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "1,532 NEAR+0.0039 NEAR"
+        },
+        {
+            "position": "141",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "1,530 NEAR+0.0026 NEAR"
+        },
+        {
+            "position": "144",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "4",
+            "total": "1,500 NEAR+0.0307 NEAR"
+        },
+        {
+            "position": "145",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "4",
+            "total": "1,460 NEAR+0.0017 NEAR"
+        },
+        {
+            "position": "146",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "3",
+            "total": "1,441 NEAR"
+        },
+        {
+            "position": "147",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "1,332 NEAR+0.0037 NEAR"
+        },
+        {
+            "position": "148",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "1,330 NEAR+0.0283 NEAR"
+        },
+        {
+            "position": "150",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "1,130 NEAR+0.0027 NEAR"
+        },
+        {
+            "position": "152",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "3",
+            "total": "1,120 NEAR+0.0362 NEAR"
+        },
+        {
+            "position": "154",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "1,086 NEAR+0.0325 NEAR"
+        },
+        {
+            "position": "155",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "6",
+            "total": "1,080 NEAR+0.031 NEAR"
+        },
+        {
+            "position": "156",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "1,066 NEAR+530 NEAR"
+        },
+        {
+            "position": "157",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "3",
+            "total": "1,049 NEAR-519.0192 NEAR"
+        },
+        {
+            "position": "160",
+            "status": "Активный",
+            "fee": "1%",
+            "contributors": "3",
+            "total": "1,033 NEAR+0.0328 NEAR"
+        },
+        {
+            "position": "161",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "3",
+            "total": "1,032 NEAR+0.0179 NEAR"
+        },
+        {
+            "position": "162",
+            "status": "Активный",
+            "fee": "0%",
+            "contributors": "3",
+            "total": "1,032 NEAR+0.0038 NEAR"
+        },
+        {
+            "position": "163",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "1,032 NEAR"
+        },
+        {
+            "position": "165",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "1,030 NEAR+0.0333 NEAR"
+        },
+        {
+            "position": "166",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "1,030 NEAR+0.0313 NEAR"
+        },
+        {
+            "position": "167",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "5",
+            "total": "1,030 NEAR"
+        },
+        {
+            "position": "168",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "1,010 NEAR+50 NEAR"
+        },
+        {
+            "position": "169",
+            "status": "Активный",
+            "fee": "4%",
+            "contributors": "2",
+            "total": "1,000 NEAR+0.0446 NEAR"
+        },
+        {
+            "position": "170",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "1,000 NEAR+0.0264 NEAR"
+        },
+        {
+            "position": "172",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "930 NEAR"
+        },
+        {
+            "position": "173",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "8",
+            "total": "900 NEAR+0.0031 NEAR"
+        },
+        {
+            "position": "174",
+            "status": "Активный",
+            "fee": "1%",
+            "contributors": "2",
+            "total": "841 NEAR+100 NEAR"
+        },
+        {
+            "position": "176",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "830 NEAR+0.0041 NEAR"
+        },
+        {
+            "position": "178",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "4",
+            "total": "801 NEAR+0.009 NEAR"
+        },
+        {
+            "position": "179",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "744 NEAR+0.0325 NEAR"
+        },
+        {
+            "position": "180",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "3",
+            "total": "730 NEAR+0.0322 NEAR"
+        },
+        {
+            "position": "182",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "630 NEAR+0.0038 NEAR"
+        },
+        {
+            "position": "187",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "557 NEAR+0.0308 NEAR"
+        },
+        {
+            "position": "189",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "1",
+            "total": "555 NEAR+0.0251 NEAR"
+        },
+        {
+            "position": "190",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "5",
+            "total": "555 NEAR"
+        },
+        {
+            "position": "192",
+            "status": "Активный",
+            "fee": "1%",
+            "contributors": "3",
+            "total": "551 NEAR+0.0237 NEAR"
+        },
+        {
+            "position": "194",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "550 NEAR+0.0236 NEAR"
+        },
+        {
+            "position": "202",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "550 NEAR+0.0226 NEAR"
+        },
+        {
+            "position": "206",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "550 NEAR+1,680 NEAR"
+        },
+        {
+            "position": "207",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "550 NEAR+0.0164 NEAR"
+        },
+        {
+            "position": "208",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "550 NEAR+0.0158 NEAR"
+        },
+        {
+            "position": "209",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "0",
+            "total": "550 NEAR+0.0131 NEAR"
+        },
+        {
+            "position": "210",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "0",
+            "total": "550 NEAR"
+        },
+        {
+            "position": "211",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "0",
+            "total": "550 NEAR"
+        },
+        {
+            "position": "212",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "0",
+            "total": "550 NEAR"
+        },
+        {
+            "position": "213",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "0",
+            "total": "550 NEAR"
+        },
+        {
+            "position": "214",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "1",
+            "total": "550 NEAR"
+        },
+        {
+            "position": "215",
+            "status": "Активный",
+            "fee": "4%",
+            "contributors": "0",
+            "total": "550 NEAR"
+        },
+        {
+            "position": "216",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "0",
+            "total": "550 NEAR"
+        },
+        {
+            "position": "217",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "0",
+            "total": "550 NEAR"
+        },
+        {
+            "position": "218",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "0",
+            "total": "550 NEAR"
+        },
+        {
+            "position": "219",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "1",
+            "total": "550 NEAR"
+        },
+        {
+            "position": "224",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "540 NEAR+0.0314 NEAR"
+        },
+        {
+            "position": "225",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "535 NEAR+0.0298 NEAR"
+        },
+        {
+            "position": "227",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "531 NEAR+0.0336 NEAR"
+        },
+        {
+            "position": "228",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "530 NEAR+0.0343 NEAR"
+        },
+        {
+            "position": "232",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "530 NEAR"
+        },
+        {
+            "position": "233",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "530 NEAR+0.0496 NEAR"
+        },
+        {
+            "position": "234",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "530 NEAR+0.0428 NEAR"
+        },
+        {
+            "position": "235",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "0",
+            "total": "530 NEAR+0.023 NEAR"
+        },
+        {
+            "position": "122",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "4",
+            "total": "1,830 NEAR+0.03 NEAR"
+        },
+        {
+            "position": "123",
+            "status": "Активный",
+            "fee": "1%",
+            "contributors": "2",
+            "total": "1,830 NEAR+0.0042 NEAR"
+        },
+        {
+            "position": "126",
+            "status": "Активный",
+            "fee": "Н/Д",
+            "contributors": "Н/Д",
+            "total": "1,800 NEAR"
+        },
+        {
+            "position": "127",
+            "status": "Активный",
+            "fee": "Н/Д",
+            "contributors": "Н/Д",
+            "total": "1,800 NEAR"
+        },
+        {
+            "position": "128",
+            "status": "Активный",
+            "fee": "Н/Д",
+            "contributors": "Н/Д",
+            "total": "1,800 NEAR"
+        },
+        {
+            "position": "131",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "3",
+            "total": "1,760 NEAR+0.0042 NEAR"
+        },
+        {
+            "position": "135",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "1,608 NEAR"
+        },
+        {
+            "position": "137",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "1,563 NEAR"
+        },
+        {
+            "position": "139",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "3",
+            "total": "1,535 NEAR+0.0319 NEAR"
+        },
+        {
+            "position": "140",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "1,532 NEAR+0.0039 NEAR"
+        },
+        {
+            "position": "141",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "1,530 NEAR+0.0026 NEAR"
+        },
+        {
+            "position": "144",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "4",
+            "total": "1,500 NEAR+0.0307 NEAR"
+        },
+        {
+            "position": "145",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "4",
+            "total": "1,460 NEAR+0.0017 NEAR"
+        },
+        {
+            "position": "146",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "3",
+            "total": "1,441 NEAR"
+        },
+        {
+            "position": "147",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "1,332 NEAR+0.0037 NEAR"
+        },
+        {
+            "position": "148",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "1,330 NEAR+0.0283 NEAR"
+        },
+        {
+            "position": "150",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "1,130 NEAR+0.0027 NEAR"
+        },
+        {
+            "position": "152",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "3",
+            "total": "1,120 NEAR+0.0362 NEAR"
+        },
+        {
+            "position": "154",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "1,086 NEAR+0.0325 NEAR"
+        },
+        {
+            "position": "155",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "6",
+            "total": "1,080 NEAR+0.031 NEAR"
+        },
+        {
+            "position": "156",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "1,066 NEAR+530 NEAR"
+        },
+        {
+            "position": "157",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "3",
+            "total": "1,049 NEAR-519.0192 NEAR"
+        },
+        {
+            "position": "160",
+            "status": "Активный",
+            "fee": "1%",
+            "contributors": "3",
+            "total": "1,033 NEAR+0.0328 NEAR"
+        },
+        {
+            "position": "161",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "3",
+            "total": "1,032 NEAR+0.0179 NEAR"
+        },
+        {
+            "position": "162",
+            "status": "Активный",
+            "fee": "0%",
+            "contributors": "3",
+            "total": "1,032 NEAR+0.0038 NEAR"
+        },
+        {
+            "position": "163",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "1,032 NEAR"
+        },
+        {
+            "position": "165",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "1,030 NEAR+0.0333 NEAR"
+        },
+        {
+            "position": "166",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "1,030 NEAR+0.0313 NEAR"
+        },
+        {
+            "position": "167",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "5",
+            "total": "1,030 NEAR"
+        },
+        {
+            "position": "168",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "1,010 NEAR+50 NEAR"
+        },
+        {
+            "position": "169",
+            "status": "Активный",
+            "fee": "4%",
+            "contributors": "2",
+            "total": "1,000 NEAR+0.0446 NEAR"
+        },
+        {
+            "position": "170",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "1,000 NEAR+0.0264 NEAR"
+        },
+        {
+            "position": "172",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "930 NEAR"
+        },
+        {
+            "position": "173",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "8",
+            "total": "900 NEAR+0.0031 NEAR"
+        },
+        {
+            "position": "174",
+            "status": "Активный",
+            "fee": "1%",
+            "contributors": "2",
+            "total": "841 NEAR+100 NEAR"
+        },
+        {
+            "position": "176",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "830 NEAR+0.0041 NEAR"
+        },
+        {
+            "position": "178",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "4",
+            "total": "801 NEAR+0.009 NEAR"
+        },
+        {
+            "position": "179",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "744 NEAR+0.0325 NEAR"
+        },
+        {
+            "position": "180",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "3",
+            "total": "730 NEAR+0.0322 NEAR"
+        },
+        {
+            "position": "182",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "630 NEAR+0.0038 NEAR"
+        },
+        {
+            "position": "187",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "557 NEAR+0.0308 NEAR"
+        },
+        {
+            "position": "189",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "1",
+            "total": "555 NEAR+0.0251 NEAR"
+        },
+        {
+            "position": "190",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "5",
+            "total": "555 NEAR"
+        },
+        {
+            "position": "192",
+            "status": "Активный",
+            "fee": "1%",
+            "contributors": "3",
+            "total": "551 NEAR+0.0237 NEAR"
+        },
+        {
+            "position": "194",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "550 NEAR+0.0236 NEAR"
+        },
+        {
+            "position": "202",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "550 NEAR+0.0226 NEAR"
+        },
+        {
+            "position": "206",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "550 NEAR+1,680 NEAR"
+        },
+        {
+            "position": "207",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "550 NEAR+0.0164 NEAR"
+        },
+        {
+            "position": "208",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "550 NEAR+0.0158 NEAR"
+        },
+        {
+            "position": "209",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "0",
+            "total": "550 NEAR+0.0131 NEAR"
+        },
+        {
+            "position": "210",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "0",
+            "total": "550 NEAR"
+        },
+        {
+            "position": "211",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "0",
+            "total": "550 NEAR"
+        },
+        {
+            "position": "212",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "0",
+            "total": "550 NEAR"
+        },
+        {
+            "position": "213",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "0",
+            "total": "550 NEAR"
+        },
+        {
+            "position": "214",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "1",
+            "total": "550 NEAR"
+        },
+        {
+            "position": "215",
+            "status": "Активный",
+            "fee": "4%",
+            "contributors": "0",
+            "total": "550 NEAR"
+        },
+        {
+            "position": "216",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "0",
+            "total": "550 NEAR"
+        },
+        {
+            "position": "217",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "0",
+            "total": "550 NEAR"
+        },
+        {
+            "position": "218",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "0",
+            "total": "550 NEAR"
+        },
+        {
+            "position": "219",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "1",
+            "total": "550 NEAR"
+        },
+        {
+            "position": "224",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "540 NEAR+0.0314 NEAR"
+        },
+        {
+            "position": "225",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "535 NEAR+0.0298 NEAR"
+        },
+        {
+            "position": "227",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "531 NEAR+0.0336 NEAR"
+        },
+        {
+            "position": "228",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "530 NEAR+0.0343 NEAR"
+        },
+        {
+            "position": "232",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "530 NEAR"
+        },
+        {
+            "position": "233",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "530 NEAR+0.0496 NEAR"
+        },
+        {
+            "position": "234",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "530 NEAR+0.0428 NEAR"
+        },
+        {
+            "position": "235",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "0",
+            "total": "530 NEAR+0.023 NEAR"
+        },
+        {
+            "position": "244",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "0",
+            "total": "520 NEAR+0.0236 NEAR"
+        },
+        {
+            "position": "245",
+            "status": "Активный",
+            "fee": "90%",
+            "contributors": "0",
+            "total": "520 NEAR"
+        },
+        {
+            "position": "247",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "516 NEAR+0.0347 NEAR"
+        },
+        {
+            "position": "248",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "510 NEAR+0.0299 NEAR"
+        },
+        {
+            "position": "252",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "506 NEAR+0.0046 NEAR"
+        },
+        {
+            "position": "254",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "505 NEAR+0.0047 NEAR"
+        },
+        {
+            "position": "255",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "500 NEAR+0.0333 NEAR"
+        },
+        {
+            "position": "257",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "500 NEAR+0.0014 NEAR"
+        },
+        {
+            "position": "258",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "500 NEAR+0.023 NEAR"
+        },
+        {
+            "position": "259",
+            "status": "Активный",
+            "fee": "Н/Д",
+            "contributors": "Н/Д",
+            "total": "500 NEAR+0.0252 NEAR"
+        },
+        {
+            "position": "261",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "500 NEAR+0.033 NEAR"
+        },
+        {
+            "position": "262",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "500 NEAR+0.0134 NEAR"
+        },
+        {
+            "position": "263",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "500 NEAR+0.0081 NEAR"
+        },
+        {
+            "position": "264",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "500 NEAR+0.0034 NEAR"
+        },
+        {
+            "position": "265",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "0",
+            "total": "500 NEAR+0.0018 NEAR"
+        },
+        {
+            "position": "266",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "0",
+            "total": "500 NEAR"
+        },
+        {
+            "position": "267",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "0",
+            "total": "500 NEAR"
+        },
+        {
+            "position": "268",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "0",
+            "total": "500 NEAR"
+        },
+        {
+            "position": "269",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "0",
+            "total": "500 NEAR"
+        },
+        {
+            "position": "270",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "0",
+            "total": "500 NEAR"
+        },
+        {
+            "position": "271",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "0",
+            "total": "500 NEAR"
+        },
+        {
+            "position": "275",
+            "status": "Активный",
+            "fee": "6%",
+            "contributors": "2",
+            "total": "491 NEAR+0.0326 NEAR"
+        },
+        {
+            "position": "276",
+            "status": "Активный",
+            "fee": "10%",
+            "contributors": "2",
+            "total": "490 NEAR+0.0306 NEAR"
+        },
+        {
+            "position": "277",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "3",
+            "total": "485 NEAR+0.0018 NEAR"
+        },
+        {
+            "position": "279",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "480 NEAR+0.0308 NEAR"
+        },
+        {
+            "position": "283",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "470 NEAR+0.0042 NEAR"
+        },
+        {
+            "position": "284",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "470 NEAR+0.004 NEAR"
+        },
+        {
+            "position": "285",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "470 NEAR+0.0039 NEAR"
+        },
+        {
+            "position": "286",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "470 NEAR+0.0039 NEAR"
+        },
+        {
+            "position": "288",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "451 NEAR+0.0308 NEAR"
+        },
+        {
+            "position": "291",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "450 NEAR+0.0319 NEAR"
+        },
+        {
+            "position": "293",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "450 NEAR+100 NEAR"
+        },
+        {
+            "position": "294",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "450 NEAR+0.0232 NEAR"
+        },
+        {
+            "position": "295",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "450 NEAR+0.0226 NEAR"
+        },
+        {
+            "position": "296",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "450 NEAR+0.0216 NEAR"
+        },
+        {
+            "position": "297",
+            "status": "Активный",
+            "fee": "4%",
+            "contributors": "2",
+            "total": "450 NEAR+0.0212 NEAR"
+        },
+        {
+            "position": "298",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "450 NEAR+0.0128 NEAR"
+        },
+        {
+            "position": "299",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "450 NEAR+0.0108 NEAR"
+        },
+        {
+            "position": "300",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "450 NEAR+0.0089 NEAR"
+        },
+        {
+            "position": "301",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "450 NEAR+0.0042 NEAR"
+        },
+        {
+            "position": "302",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "0",
+            "total": "450 NEAR+0.0012 NEAR"
+        },
+        {
+            "position": "303",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "0",
+            "total": "450 NEAR"
+        },
+        {
+            "position": "304",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "0",
+            "total": "450 NEAR"
+        },
+        {
+            "position": "305",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "0",
+            "total": "450 NEAR"
+        },
+        {
+            "position": "306",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "0",
+            "total": "450 NEAR"
+        },
+        {
+            "position": "307",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "0",
+            "total": "450 NEAR"
+        },
+        {
+            "position": "310",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "444 NEAR+0.0116 NEAR"
+        },
+        {
+            "position": "312",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "440 NEAR"
+        },
+        {
+            "position": "313",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "430 NEAR+0.0371 NEAR"
+        },
+        {
+            "position": "316",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "430 NEAR+0.0267 NEAR"
+        },
+        {
+            "position": "317",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "430 NEAR+0.0334 NEAR"
+        },
+        {
+            "position": "318",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "430 NEAR+0.0273 NEAR"
+        },
+        {
+            "position": "319",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "1",
+            "total": "430 NEAR+0.0181 NEAR"
+        },
+        {
+            "position": "323",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "0",
+            "total": "400 NEAR+50 NEAR"
+        },
+        {
+            "position": "324",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "0",
+            "total": "400 NEAR"
+        },
+        {
+            "position": "327",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "360 NEAR+0.0325 NEAR"
+        },
+        {
+            "position": "328",
+            "status": "Активный",
+            "fee": "1%",
+            "contributors": "3",
+            "total": "360 NEAR+20 NEAR"
+        },
+        {
+            "position": "329",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "358 NEAR"
+        },
+        {
+            "position": "331",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "4",
+            "total": "333 NEAR+0.0198 NEAR"
+        },
+        {
+            "position": "332",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "332 NEAR"
+        },
+        {
+            "position": "333",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "330 NEAR+0.0319 NEAR"
+        },
+        {
+            "position": "334",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "330 NEAR+0.0303 NEAR"
+        },
+        {
+            "position": "337",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "330 NEAR+0.0249 NEAR"
+        },
+        {
+            "position": "338",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "330 NEAR+20 NEAR"
+        },
+        {
+            "position": "339",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "330 NEAR+0.0026 NEAR"
+        },
+        {
+            "position": "340",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "1",
+            "total": "330 NEAR"
+        },
+        {
+            "position": "341",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "1",
+            "total": "330 NEAR"
+        },
+        {
+            "position": "343",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "320 NEAR+20 NEAR"
+        },
+        {
+            "position": "368",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "2",
+            "total": "200 NEAR+230 NEAR"
+        },
+        {
+            "position": "376",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "60",
+            "total": "166 NEAR+200 NEAR"
+        }
+    ],
+    "mainnet": [
+        {
+            "position": "1",
+            "status": "Активный",
+            "fee": "100%",
+            "contributors": "438",
+            "total": "24,435,934 NEAR+5,003 NEAR"
+        },
+        {
+            "position": "2",
+            "status": "Активный",
+            "fee": "1%",
+            "contributors": "8128",
+            "total": "21,453,116 NEAR+2,468 NEAR"
+        },
+        {
+            "position": "3",
+            "status": "Активный",
+            "fee": "10%",
+            "contributors": "849",
+            "total": "21,199,640 NEAR+4,120 NEAR"
+        },
+        {
+            "position": "4",
+            "status": "Активный",
+            "fee": "1%",
+            "contributors": "5832",
+            "total": "20,776,359 NEAR+4,212 NEAR"
+        },
+        {
+            "position": "5",
+            "status": "Активный",
+            "fee": "99%",
+            "contributors": "3658",
+            "total": "18,221,836 NEAR+9,491 NEAR"
+        },
+        {
+            "position": "6",
+            "status": "Активный",
+            "fee": "9%",
+            "contributors": "294",
+            "total": "18,133,692 NEAR-161,945.1744 NEAR"
+        },
+        {
+            "position": "8",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "834",
+            "total": "13,872,497 NEAR+3,440 NEAR"
+        },
+        {
+            "position": "9",
+            "status": "Активный",
+            "fee": "20%",
+            "contributors": "21",
+            "total": "11,626,098 NEAR+2,381 NEAR"
+        },
+        {
+            "position": "10",
+            "status": "Активный",
+            "fee": "3%",
+            "contributors": "298",
+            "total": "10,758,854 NEAR+2,298 NEAR"
+        },
+        {
+            "position": "11",
+            "status": "Активный",
+            "fee": "1%",
+            "contributors": "4378",
+            "total": "10,556,446 NEAR+15,575 NEAR"
+        },
+        {
+            "position": "12",
+            "status": "Активный",
+            "fee": "9%",
+            "contributors": "343",
+            "total": "10,219,163 NEAR+2,092 NEAR"
+        },
+        {
+            "position": "13",
+            "status": "Активный",
+            "fee": "10%",
+            "contributors": "276",
+            "total": "10,215,357 NEAR+2,091 NEAR"
+        },
+        {
+            "position": "14",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "508",
+            "total": "10,085,086 NEAR+3,465 NEAR"
+        },
+        {
+            "position": "15",
+            "status": "Активный",
+            "fee": "2%",
+            "contributors": "1127",
+            "total": "9,100,920 NEAR+1,863 NEAR"
+        },
+        {
+            "position": "16",
+            "status": "Активный",
+            "fee": "10%",
+            "contributors": "230",
+            "total": "7,560,429 NEAR+1,763 NEAR"
+        },
+        {
+            "position": "17",
+            "status": "Активный",
+            "fee": "100%",
+            "contributors": "268",
+            "total": "7,106,558 NEAR+1,455 NEAR"
+        },
+        {
+            "position": "18",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "384",
+            "total": "6,780,355 NEAR+2,288 NEAR"
+        },
+        {
+            "position": "19",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "661",
+            "total": "6,451,284 NEAR+1,122 NEAR"
+        },
+        {
+            "position": "20",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "429",
+            "total": "6,334,250 NEAR+1,297 NEAR"
+        },
+        {
+            "position": "21",
+            "status": "Активный",
+            "fee": "100%",
+            "contributors": "217",
+            "total": "6,268,092 NEAR+1,283 NEAR"
+        },
+        {
+            "position": "22",
+            "status": "Активный",
+            "fee": "8%",
+            "contributors": "497",
+            "total": "5,542,260 NEAR+1,134 NEAR"
+        },
+        {
+            "position": "23",
+            "status": "Активный",
+            "fee": "10%",
+            "contributors": "515",
+            "total": "5,429,968 NEAR+1,110 NEAR"
+        },
+        {
+            "position": "24",
+            "status": "Активный",
+            "fee": "10%",
+            "contributors": "324",
+            "total": "5,370,197 NEAR+909 NEAR"
+        },
+        {
+            "position": "25",
+            "status": "Активный",
+            "fee": "100%",
+            "contributors": "223",
+            "total": "5,266,215 NEAR+1,078 NEAR"
+        },
+        {
+            "position": "26",
+            "status": "Активный",
+            "fee": "10%",
+            "contributors": "154",
+            "total": "5,096,197 NEAR+1,043 NEAR"
+        },
+        {
+            "position": "27",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "361",
+            "total": "5,000,591 NEAR+1,024 NEAR"
+        },
+        {
+            "position": "28",
+            "status": "Активный",
+            "fee": "10%",
+            "contributors": "184",
+            "total": "4,649,910 NEAR+952 NEAR"
+        },
+        {
+            "position": "29",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "1717",
+            "total": "4,588,928 NEAR-1,487.0086 NEAR"
+        },
+        {
+            "position": "30",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "524",
+            "total": "4,458,483 NEAR+941 NEAR"
+        },
+        {
+            "position": "31",
+            "status": "Активный",
+            "fee": "8%",
+            "contributors": "208",
+            "total": "4,456,335 NEAR+914 NEAR"
+        },
+        {
+            "position": "32",
+            "status": "Активный",
+            "fee": "10%",
+            "contributors": "339",
+            "total": "4,325,033 NEAR-35.1072 NEAR"
+        },
+        {
+            "position": "33",
+            "status": "Активный",
+            "fee": "10%",
+            "contributors": "2536",
+            "total": "4,069,987 NEAR+481 NEAR"
+        },
+        {
+            "position": "34",
+            "status": "Активный",
+            "fee": "100%",
+            "contributors": "181",
+            "total": "4,051,950 NEAR+830 NEAR"
+        },
+        {
+            "position": "35",
+            "status": "Активный",
+            "fee": "1%",
+            "contributors": "2866",
+            "total": "4,043,473 NEAR+6,358 NEAR"
+        },
+        {
+            "position": "37",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "411",
+            "total": "3,885,727 NEAR+794 NEAR"
+        },
+        {
+            "position": "38",
+            "status": "Активный",
+            "fee": "3%",
+            "contributors": "655",
+            "total": "3,822,639 NEAR+36 NEAR"
+        },
+        {
+            "position": "39",
+            "status": "Активный",
+            "fee": "3%",
+            "contributors": "616",
+            "total": "3,722,831 NEAR+762 NEAR"
+        },
+        {
+            "position": "40",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "1261",
+            "total": "3,648,073 NEAR+747 NEAR"
+        },
+        {
+            "position": "41",
+            "status": "Активный",
+            "fee": "8%",
+            "contributors": "182",
+            "total": "3,620,983 NEAR+741 NEAR"
+        },
+        {
+            "position": "42",
+            "status": "Активный",
+            "fee": "1%",
+            "contributors": "2501",
+            "total": "3,592,267 NEAR-99.5901 NEAR"
+        },
+        {
+            "position": "43",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "443",
+            "total": "3,277,253 NEAR+659 NEAR"
+        },
+        {
+            "position": "44",
+            "status": "Активный",
+            "fee": "3%",
+            "contributors": "2765",
+            "total": "3,199,973 NEAR-9,124.2896 NEAR"
+        },
+        {
+            "position": "45",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "374",
+            "total": "3,184,428 NEAR+662 NEAR"
+        },
+        {
+            "position": "46",
+            "status": "Активный",
+            "fee": "3%",
+            "contributors": "479",
+            "total": "3,142,271 NEAR+688 NEAR"
+        },
+        {
+            "position": "47",
+            "status": "Активный",
+            "fee": "10%",
+            "contributors": "212",
+            "total": "3,059,908 NEAR+626 NEAR"
+        },
+        {
+            "position": "48",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "523",
+            "total": "2,886,815 NEAR+3,249 NEAR"
+        },
+        {
+            "position": "49",
+            "status": "Активный",
+            "fee": "1%",
+            "contributors": "2099",
+            "total": "2,815,338 NEAR-1,365.0873 NEAR"
+        },
+        {
+            "position": "50",
+            "status": "Активный",
+            "fee": "4%",
+            "contributors": "360",
+            "total": "2,797,202 NEAR-1,522.999 NEAR"
+        },
+        {
+            "position": "51",
+            "status": "Активный",
+            "fee": "7%",
+            "contributors": "288",
+            "total": "2,690,047 NEAR+551 NEAR"
+        },
+        {
+            "position": "52",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "85",
+            "total": "2,659,388 NEAR+544 NEAR"
+        },
+        {
+            "position": "53",
+            "status": "Активный",
+            "fee": "100%",
+            "contributors": "176",
+            "total": "2,537,232 NEAR-1,988.6091 NEAR"
+        },
+        {
+            "position": "54",
+            "status": "Активный",
+            "fee": "4%",
+            "contributors": "2038",
+            "total": "2,491,001 NEAR+515 NEAR"
+        },
+        {
+            "position": "55",
+            "status": "Активный",
+            "fee": "4%",
+            "contributors": "777",
+            "total": "2,309,775 NEAR+477 NEAR"
+        },
+        {
+            "position": "56",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "1201",
+            "total": "2,018,632 NEAR+259 NEAR"
+        },
+        {
+            "position": "57",
+            "status": "Активный",
+            "fee": "3%",
+            "contributors": "1090",
+            "total": "1,975,109 NEAR+404 NEAR"
+        },
+        {
+            "position": "58",
+            "status": "Активный",
+            "fee": "3%",
+            "contributors": "513",
+            "total": "1,802,222 NEAR+574 NEAR"
+        },
+        {
+            "position": "59",
+            "status": "Активный",
+            "fee": "3%",
+            "contributors": "1913",
+            "total": "1,796,175 NEAR+393 NEAR"
+        },
+        {
+            "position": "60",
+            "status": "Активный",
+            "fee": "2%",
+            "contributors": "1043",
+            "total": "1,737,755 NEAR+356 NEAR"
+        },
+        {
+            "position": "61",
+            "status": "Активный",
+            "fee": "4%",
+            "contributors": "352",
+            "total": "1,589,869 NEAR+325 NEAR"
+        },
+        {
+            "position": "62",
+            "status": "Активный",
+            "fee": "100%",
+            "contributors": "36",
+            "total": "980,054 NEAR+201 NEAR"
+        },
+        {
+            "position": "63",
+            "status": "Активный",
+            "fee": "0%",
+            "contributors": "840",
+            "total": "902,407 NEAR+344 NEAR"
+        },
+        {
+            "position": "64",
+            "status": "Активный",
+            "fee": "0%",
+            "contributors": "585",
+            "total": "897,601 NEAR+53 NEAR"
+        },
+        {
+            "position": "65",
+            "status": "Активный",
+            "fee": "4%",
+            "contributors": "221",
+            "total": "756,162 NEAR+154 NEAR"
+        },
+        {
+            "position": "66",
+            "status": "Активный",
+            "fee": "0%",
+            "contributors": "666",
+            "total": "716,020 NEAR+98 NEAR"
+        },
+        {
+            "position": "67",
+            "status": "Активный",
+            "fee": "1%",
+            "contributors": "667",
+            "total": "646,688 NEAR-172,733.9222 NEAR"
+        },
+        {
+            "position": "68",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "85",
+            "total": "642,205 NEAR+131 NEAR"
+        },
+        {
+            "position": "69",
+            "status": "Активный",
+            "fee": "1%",
+            "contributors": "521",
+            "total": "633,039 NEAR-58.8059 NEAR"
+        },
+        {
+            "position": "70",
+            "status": "Активный",
+            "fee": "1%",
+            "contributors": "608",
+            "total": "551,798 NEAR+167 NEAR"
+        },
+        {
+            "position": "71",
+            "status": "Активный",
+            "fee": "10%",
+            "contributors": "129",
+            "total": "542,685 NEAR+111 NEAR"
+        },
+        {
+            "position": "72",
+            "status": "Активный",
+            "fee": "1%",
+            "contributors": "474",
+            "total": "531,573 NEAR-1,058.6174 NEAR"
+        },
+        {
+            "position": "73",
+            "status": "Активный",
+            "fee": "1%",
+            "contributors": "506",
+            "total": "527,779 NEAR-85.2624 NEAR"
+        },
+        {
+            "position": "74",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "150",
+            "total": "498,698 NEAR+102 NEAR"
+        },
+        {
+            "position": "75",
+            "status": "Активный",
+            "fee": "4%",
+            "contributors": "1026",
+            "total": "473,309 NEAR+97 NEAR"
+        },
+        {
+            "position": "76",
+            "status": "Активный",
+            "fee": "1%",
+            "contributors": "549",
+            "total": "449,255 NEAR+97 NEAR"
+        },
+        {
+            "position": "77",
+            "status": "Активный",
+            "fee": "7%",
+            "contributors": "703",
+            "total": "442,428 NEAR+76 NEAR"
+        },
+        {
+            "position": "78",
+            "status": "Активный",
+            "fee": "1%",
+            "contributors": "585",
+            "total": "439,573 NEAR+605 NEAR"
+        },
+        {
+            "position": "79",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "110",
+            "total": "413,094 NEAR+57 NEAR"
+        },
+        {
+            "position": "80",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "114",
+            "total": "376,417 NEAR+88 NEAR"
+        },
+        {
+            "position": "81",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "34",
+            "total": "362,951 NEAR+124 NEAR"
+        },
+        {
+            "position": "82",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "358",
+            "total": "355,088 NEAR+73 NEAR"
+        },
+        {
+            "position": "83",
+            "status": "Активный",
+            "fee": "20%",
+            "contributors": "11",
+            "total": "352,172 NEAR+72 NEAR"
+        },
+        {
+            "position": "84",
+            "status": "Активный",
+            "fee": "0%",
+            "contributors": "25",
+            "total": "326,996 NEAR+67 NEAR"
+        },
+        {
+            "position": "85",
+            "status": "Активный",
+            "fee": "1%",
+            "contributors": "164",
+            "total": "294,741 NEAR+146 NEAR"
+        },
+        {
+            "position": "86",
+            "status": "Активный",
+            "fee": "100%",
+            "contributors": "19",
+            "total": "278,085 NEAR+57 NEAR"
+        },
+        {
+            "position": "87",
+            "status": "Активный",
+            "fee": "7%",
+            "contributors": "11",
+            "total": "270,369 NEAR+39 NEAR"
+        },
+        {
+            "position": "88",
+            "status": "Активный",
+            "fee": "1%",
+            "contributors": "227",
+            "total": "231,150 NEAR+65 NEAR"
+        },
+        {
+            "position": "89",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "177",
+            "total": "213,145 NEAR+44 NEAR"
+        },
+        {
+            "position": "90",
+            "status": "Активный",
+            "fee": "2%",
+            "contributors": "237",
+            "total": "210,712 NEAR+43 NEAR"
+        },
+        {
+            "position": "91",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "213",
+            "total": "204,021 NEAR+42 NEAR"
+        },
+        {
+            "position": "92",
+            "status": "Активный",
+            "fee": "7%",
+            "contributors": "15",
+            "total": "202,842 NEAR+42 NEAR"
+        },
+        {
+            "position": "93",
+            "status": "Активный",
+            "fee": "7%",
+            "contributors": "54",
+            "total": "201,852 NEAR+41 NEAR"
+        },
+        {
+            "position": "94",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "19",
+            "total": "201,804 NEAR+41 NEAR"
+        },
+        {
+            "position": "95",
+            "status": "Активный",
+            "fee": "8%",
+            "contributors": "45",
+            "total": "197,046 NEAR+52 NEAR"
+        },
+        {
+            "position": "96",
+            "status": "Активный",
+            "fee": "8%",
+            "contributors": "57",
+            "total": "190,320 NEAR+38 NEAR"
+        },
+        {
+            "position": "97",
+            "status": "Активный",
+            "fee": "5%",
+            "contributors": "147",
+            "total": "189,465 NEAR+209 NEAR"
+        },
+        {
+            "position": "99",
+            "status": "Активный",
+            "fee": "7%",
+            "contributors": "88",
+            "total": "186,246 NEAR+38 NEAR"
+        }
+    ]
+}
